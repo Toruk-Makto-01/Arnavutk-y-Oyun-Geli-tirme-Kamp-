@@ -1,0 +1,67 @@
+# Unity Genel
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Unity Asset Store ve Packages
+*.unitypackage
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+.vscode/
+.idea/
+.vs/
+
+# Rider
+*.sln.iml
+
+# Unity Cache ve Yerel Ayarlar
+UserSettings/
+*.tmproj
+*.userprefs
+
+# Sisteme özgü dosyalar
+.DS_Store
+*.swp
+*.lock
+*.tmp
+*.bak
+*.orig
+*.log
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Gömülü Versiyon Kontrol Sistemleri
+*.git
+*.hg
+*.svn
+
+# Unity Collaborate
+.collabignore
+.collab/
+
+# Unity Cloud Build
+.cloud/
+
+# Auto-generated JetBrains Rider files
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+.history/
+
+# Diğer
+Exports/
+*.apk
+*.aab
+*.keystore
+*.symbols
